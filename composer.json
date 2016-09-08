@@ -1,0 +1,14 @@
+{
+  "name": "senscritique/li3_flash",
+  "type": "lithium-library",
+  "homepage": "http://www.senscritique.com",
+  "version": "1.0.0",
+  "authors": [],
+  "minimum-stability": "dev",
+  "require": {
+    "composer/installers": "dev-master"
+  },
+  "require-dev": {
+    "unionofrad/lithium": "1.1.*"
+  }
+}  
